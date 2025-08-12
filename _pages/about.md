@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-I am a Research Associate at the Center for Biostatistics in AIDS Research ([CBAR](https://hsph.harvard.edu/research/biostatistics-aids-cbar/)) in the Harvard School of Public Health.  At CBAR, I work on the design, monitoring, and analysis of clinical trials in the areas of HIV and tuberculosis, collaborating closely with clinicians as part of the {International Maternal Pediatric Adolescent AIDS Clinical Trials Network](https://www.impaactnetwork.org/).  Broadly, my research interests include:
+I am a Research Associate at the Center for Biostatistics in AIDS Research ([CBAR](https://hsph.harvard.edu/research/biostatistics-aids-cbar/)) in the Harvard School of Public Health.  At CBAR, I work on the design, monitoring, and analysis of clinical trials in the areas of HIV and tuberculosis, collaborating closely with clinicians as part of the [International Maternal Pediatric Adolescent AIDS Clinical Trials Network](https://www.impaactnetwork.org/).  Broadly, my research interests include:
 + Methods for analyzing complex longitudinal data
 + Methods for jointly modeling longitudinal and time-to-event outcomes
 + Design and analysis of clinical trials
