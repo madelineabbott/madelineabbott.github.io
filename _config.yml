@@ -82,12 +82,12 @@ analytics:
 author:
   name             : "Madeline R. Abbott"
   avatar           : "headshot.jpg"
-  bio              : "PhD Candidate in Biostatistics at the University of Michigan"
-  location         : "Ann Arbor, MI"
+  bio              : "Research Associate at the Center for Biostatistics in AIDS Research, Harvard School of Public Health"
+  location         : "Boston, MA"
   employer         :
   pubmed           : #"https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   googlescholar    : "https://scholar.google.com/citations?user=xZ_HXK4AAAAJ&hl=en"
-  email            : "mrabbott@umich.edu"
+  email            : "mabbott@sdac.harvard.edu"
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :
